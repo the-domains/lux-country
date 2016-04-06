@@ -1,0 +1,28 @@
+name: Lux Country
+favicon: null
+layout_spectrum: 0.3988502298016101
+typography_spectrum: 0.2569753450807184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3377344901673496
+  lightness: 0.21239539072848856
+  saturation: 0.43206252716481686
+  rhythmicContrast: 0.9670262753497809
+purpose: []
